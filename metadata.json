@@ -1,0 +1,5 @@
+{
+  "name": "Gestión de Remitos Digitales",
+  "description": "Una aplicación web completa para la gestión de remitos digitales de envío y recepción de mercadería entre Fábrica y Depósito. Incluye gestión de usuarios, obras, creación de remitos con firmas digitales y fotos, y potentes filtros de búsqueda.",
+  "requestFramePermissions": []
+}
